@@ -1,4 +1,4 @@
-package com.iron.design.principle;
+package com.iron.design.principle.openclose;
 
 /**
  * @author JarvisChen
